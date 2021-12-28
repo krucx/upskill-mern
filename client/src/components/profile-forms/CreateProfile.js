@@ -82,7 +82,7 @@ const CreateProfile = ({ createProfile, history }) => {
               onChange={(e) => onChange(e)}
             />
             <small className="form-text text-muted">
-              City &amp; state suggested (eg. Egypt, Cairo)
+              City &amp; state suggested (eg. Mumbai, Maharashtra)
             </small>
           </div>
           <div className="form-group">
