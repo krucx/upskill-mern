@@ -118,7 +118,7 @@ export const deleteBlog = (id) => async (dispatch) => {
       type: TYPES.DELETE_BLOG,
       payload: id,
     });
-    dispatch(setAlert("Blog Removed", "success"));
+    dispatch(setAlert("Post Removed", "success"));
   } catch (err) {
     dispatch({
       type: TYPES.BLOG_ERROR,
