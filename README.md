@@ -48,9 +48,9 @@ $ npm run client
 
 ## Built With
 
-- [Node.JS](http://nodejs.org/) - Node.JS is used in the backend.
-- [Mongodb](https://www.mongodb.com/) - Mongodb is used in the backend.
-- [Express.JS](http://expressjs.com/) - Express.JS is used in the backend.
+- [Node.JS](http://nodejs.org/) - A runtime environment to help build fast server applications using JS.
+- [Mongodb](https://www.mongodb.com/) - Used as a database to store and retrieve data.
+- [Express.JS](http://expressjs.com/) - A popular Node.js framework to build scalable server-side for web applications.
 - [React.JS](https://reactjs.org/) -Frontend library used in the project.
 - [Redux](https://redux.js.org/) - Used in addition to React.JS
 
