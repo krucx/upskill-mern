@@ -21,7 +21,7 @@ _Node.JS and npm must be installed. Download and install them from [here](https:
 Follow these steps to run this project in your local computer.
 
 ```
-$ https://github.com/krucx/upskill-mern
+$ git clone https://github.com/krucx/upskill-mern
 $ npm install
 $ cd client
 $ npm install
